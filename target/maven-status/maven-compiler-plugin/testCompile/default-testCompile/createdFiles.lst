@@ -1,0 +1,3 @@
+org\zycus\tinyurl\resource\TinyUrlResourceTest.class
+org\zycus\tinyurl\dao\TinyUrlDaoImplTest.class
+org\zycus\tinyurl\service\TinyUrlServiceImplTest.class
